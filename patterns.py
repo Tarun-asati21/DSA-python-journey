@@ -120,9 +120,117 @@ def pattern13(n):
              print()
 
 def pattern14(n):
-    list = ["A","B","C","D","E"]
-    for i in range (0, n):
-         for j in range(0, i+1):
-            print(list[j], end ="") 
+
+    # way1
+    # list = ["A","B","C","D","E"]
+    # for i in range (0, n):
+    #      for j in range(0, i+1):
+    #         print(list[j], end ="") 
+    #      print()
+
+    # scalable way 
+    for i in range (0,n):
+         for j in range (0, i+1):
+              print(chr(65+j), end="")
          print()
 
+def pattern15(n):
+     
+     for i in range (n,0, -1):
+          for j in range (0, i):
+               print(chr(65+j), end="")
+          print()
+
+def pattern16(n):
+     
+     for i in range (1,n+1):
+          print((chr(64+i))*i, end ="")
+          print()
+
+def pattern17(n):
+     
+     for i in range (1, n+1):
+          
+          for j in range (0,n-i):
+               print(" ", end="")
+          for k in range (1, i+1):
+               print(chr(64+k), end="")
+          for l in range(i-1, 0, -1):
+               print(chr(64+l), end="")
+          for j in range (0,n-i):
+               print(" ", end="") 
+          print()       
+
+def pattern18(n):
+    
+    for i in range (1,n+1):
+         for k in range (i, 0,-1):
+              print(chr(65+n-k), end="")
+         print()
+
+def pattern19(n):
+
+    for i in range (n,0,-1):
+         for j in range (0, i):
+              print("*", end="")
+         for j in range (0, 2*(n-i)):
+              print(" ", end="")
+         for j in range (0,i):
+              print("*", end ="")
+         print()
+
+    for i in range (1,n+1):
+         for j in range (0,i):
+              print("*",end ="")
+         for j in range(0, 2*(n-i)):
+              print(" ", end="")
+         for j in range (0, i):
+              print("*",end="")
+         print()                 
+                    
+def pattern20(n):
+
+     for i in range (1,n+1):
+          for j in range (0,i):
+               print("*", end ="")
+          for j in range (0, 2*(n-i)):
+               print(" ", end ="")
+          for j in range (0,i):
+               print('*', end = "")
+          print()
+
+     for i in range (n-1,0,-1):
+         for j in range (0, i):
+              print("*", end="")
+         for j in range (0, 2*(n-i)):
+              print(" ", end="")
+         for j in range (0,i):
+              print("*", end ="")
+         print()         
+          
+def pattern21(n):
+
+     for i in range (0,n):
+          print("*",end ="")
+     print()
+
+     for i in range (0, n-2):
+          for j in range (1):
+               print("*", end="")
+          for j in range (0, n-2):
+               print(" ", end="")
+          for j in range (1):
+               print("*", end ="")
+          print()
+
+     for i in range (0,n):
+          print("*",end ="")
+
+def pattern22(n):
+
+     size = 2*n -1
+     for i in range (size):
+          for j in range (size):
+               num = min(i,j,size-i-1,size-j-1)
+               print(n - num, end=" ")
+          print()
