@@ -6,4 +6,5 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
