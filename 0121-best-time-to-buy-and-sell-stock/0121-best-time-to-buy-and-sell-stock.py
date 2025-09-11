@@ -23,7 +23,7 @@ class Solution(object):
         max_p = 0
         while right < len(prices):
             profit = prices[right]-prices[left]
-            if prices[right]>prices[left]:
+            if prices[left]<prices[right]:
                 max_p=max(max_p, profit)
             else :
                 left=right 
