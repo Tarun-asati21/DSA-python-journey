@@ -7,7 +7,7 @@ class Solution(object):
         from collections import defaultdict
         hashmap = defaultdict(list)
         
-        for i,n in enumerate(strs) :
+        for n in strs :
             sorted_str = tuple(sorted(n))
             hashmap[sorted_str].append(n)
         
