@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
@@ -20,6 +21,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 ## Sorting
 |  |
