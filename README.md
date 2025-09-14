@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
@@ -61,6 +62,7 @@
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
@@ -120,4 +122,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
