@@ -5,11 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        
-        from collections import defaultdict 
-        sum_map=defaultdict(int)
-        sum_map={0:1}
 
+        sum_map={0:1}
         n = len(nums)
         sumi=0
         count=0
