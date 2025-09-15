@@ -50,6 +50,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
+| [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
