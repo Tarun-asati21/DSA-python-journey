@@ -40,6 +40,7 @@
 | [0136-single-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0485-max-consecutive-ones) |
@@ -91,6 +92,7 @@
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
@@ -158,4 +162,8 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
