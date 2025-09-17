@@ -49,6 +49,7 @@
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -125,6 +128,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -146,4 +150,12 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
