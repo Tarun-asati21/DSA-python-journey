@@ -33,8 +33,8 @@ class TaskManager:
         while self.hq:
             top = heappop(self.hq)
             p, t, u = -top[0], -top[1], top[2]
-            if t in self.t2p.keys() and self.t2p[t] == p and self.t2u[t] == u:
-                self.rmv(t)
+            if t in self.t2p.keys() and self.t2p[t] == p and self.t2u[t] == u: # self.t2u[t]==u --> agar koi task delete hua, magar ussi task id, se koi naya user, nayi priority add karta hai --> but yeh condition check nhi lagate apan toh voh purana userid return karta(which is wrong)
+                self.rmv(t) # if a task is found, then delete it from the maps(khamaka-rhkane ka koi matlab nhi hai - TC increase hogi) --> otherwise TLE test case fail hoga!!
                 return u
         return -1
 
