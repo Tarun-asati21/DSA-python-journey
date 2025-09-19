@@ -6,15 +6,23 @@ class Solution(object):
         :rtype: int
         """
         
-        # brute force -> using sorting 
+        # -> using sorting 
         # nums=sorted(nums, reverse=True)
         # return nums[k-1]
 
-        # better solution -> using maxheap
-        from heapq import heapify, heappush , heappop
+        # -> using maxheap
+        # from heapq import heapify, heappush , heappop
 
-        nums=[-num for num in nums]
+        # nums=[-num for num in nums]
+        # heapify(nums)
+        # for i in range(k):
+        #     result = heappop(nums)
+        # return -result
+
+        # optimal solution -> using min heap
+        import heapq
+
         heapify(nums)
-        for i in range(k):
-            result = heappop(nums)
-        return -result
+        while len(nums)>k:
+            heappop(nums)
+        return nums[0]
