@@ -58,6 +58,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
@@ -142,6 +143,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3379-score-of-a-string) |
@@ -221,4 +223,5 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
