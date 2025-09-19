@@ -14,6 +14,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2812-find-the-maximum-achievable-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
