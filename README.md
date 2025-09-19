@@ -136,6 +136,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 ## Bucket Sort
@@ -162,6 +163,7 @@
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
@@ -178,4 +180,20 @@
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
