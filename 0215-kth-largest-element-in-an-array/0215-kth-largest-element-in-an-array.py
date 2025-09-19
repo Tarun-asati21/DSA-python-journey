@@ -19,7 +19,7 @@ class Solution(object):
         #     result = heappop(nums)
         # return -result
 
-        # optimal solution -> using min heap
+        # optimal space solution -> using min heap
         import heapq
 
         heapify(nums)
