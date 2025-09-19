@@ -83,6 +83,7 @@
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
+| [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
@@ -137,6 +138,7 @@
 | [0205-isomorphic-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1205-defanging-an-ip-address) |
