@@ -10,7 +10,9 @@ class Solution(object):
         r=len(nums)-1
         while l<=r :
             m = (l+r)//2
-            if nums[l]<=nums[m]:
+            if nums[l]<=nums[r]:  # -> that array part is already sorted
+                return min(mini, nums[l])
+            elif nums[l]<=nums[m]:
                 mini = min(mini, nums[l])
                 l=m+1
             else : # nums[m]<nums[r]
