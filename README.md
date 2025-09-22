@@ -11,6 +11,7 @@
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
