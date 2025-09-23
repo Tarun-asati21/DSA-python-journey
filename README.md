@@ -101,6 +101,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
+| [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
