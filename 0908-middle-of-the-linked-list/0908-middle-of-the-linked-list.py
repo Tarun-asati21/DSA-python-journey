@@ -9,24 +9,18 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
+        # length of the ll
         count = 0
         curr = head
         while curr :
             count+=1
             curr = curr.next
-        
-        # if count%2 != 0 :
+
+        # search for the middle element
         k = count//2
         curr = head
         for i in range (k) :
             curr = curr.next
         head = curr
         return head
-        # else :
-        #     k= count//2
-        #     curr = head
-        #     for i in range (k) :
-        #         curr = curr.next
-        #     head = curr
-        #     return head
-
+       
