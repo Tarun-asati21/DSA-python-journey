@@ -113,6 +113,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0205-isomorphic-strings) |
@@ -310,6 +312,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
