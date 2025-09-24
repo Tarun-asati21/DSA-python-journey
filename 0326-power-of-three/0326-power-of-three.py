@@ -1,5 +1,6 @@
 class Solution:
     def isPowerOfThree(self, n: int) -> bool:
+        # brute force 
         if n<0 :
             return False
         else :
@@ -11,4 +12,4 @@ class Solution:
                 n = n/3
             return False
     
-        
+    
