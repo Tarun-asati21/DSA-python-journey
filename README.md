@@ -14,6 +14,7 @@
 | [0326-power-of-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0326-power-of-three) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -80,6 +81,7 @@
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -180,6 +182,7 @@
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
@@ -228,6 +231,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 ## Heap (Priority Queue)
