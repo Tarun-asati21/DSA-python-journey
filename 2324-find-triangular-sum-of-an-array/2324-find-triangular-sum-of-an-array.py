@@ -7,3 +7,4 @@ class Solution:
                 new_nums.append(add)
             nums = new_nums
         return nums[0]
+
