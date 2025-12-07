@@ -8,8 +8,7 @@ class Solution:
         #         count+=1
         # return count
 
-        # if low%2 != 0 and high%2 != 0 :
-        #     return (high-low)//2 + 1
+        # better logical approach
         if low%2 == 0 and high%2 == 0 :
             return (high-low)//2 
         else :
