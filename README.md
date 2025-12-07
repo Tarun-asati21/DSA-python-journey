@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
