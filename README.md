@@ -34,6 +34,7 @@
 | [2812-find-the-maximum-achievable-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3830-find-closest-person) |
@@ -114,6 +115,7 @@
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3582-find-indices-of-stable-mountains) |
@@ -270,6 +272,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |
 | ------- |
