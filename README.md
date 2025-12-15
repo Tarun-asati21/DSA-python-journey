@@ -24,6 +24,7 @@
 | [1806-count-of-matches-in-tournament](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1806-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2383-add-two-integers) |
@@ -46,6 +47,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [1944-truncate-sentence](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1944-truncate-sentence) |
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
