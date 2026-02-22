@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
@@ -194,6 +195,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
@@ -345,6 +348,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1806-count-of-matches-in-tournament) |
