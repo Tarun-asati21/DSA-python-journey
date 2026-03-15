@@ -131,6 +131,7 @@
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3582-find-indices-of-stable-mountains) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
@@ -174,6 +175,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
@@ -283,6 +285,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
@@ -363,6 +367,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -377,6 +382,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -395,4 +401,8 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0175-combine-two-tables) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
