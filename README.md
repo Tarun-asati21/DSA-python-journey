@@ -39,6 +39,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3830-find-closest-person](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3830-find-closest-person) |
@@ -270,6 +271,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3379-score-of-a-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -315,6 +317,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2491-smallest-even-multiple) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Counting Sort
 |  |
@@ -397,6 +401,7 @@
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
 | ------- |
