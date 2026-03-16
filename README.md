@@ -7,6 +7,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
@@ -58,6 +59,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
