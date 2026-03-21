@@ -82,6 +82,7 @@
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0136-single-number) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
@@ -358,6 +360,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
