@@ -105,6 +105,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
@@ -371,6 +372,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0074-search-a-2d-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -399,6 +401,7 @@
 | [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
 | [1806-count-of-matches-in-tournament](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1806-count-of-matches-in-tournament) |
