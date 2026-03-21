@@ -83,6 +83,7 @@
 | [0048-rotate-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0075-sort-colors) |
@@ -363,6 +364,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0073-set-matrix-zeroes) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1572-matrix-diagonal-sum) |
@@ -389,6 +391,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
