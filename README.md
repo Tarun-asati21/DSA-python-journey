@@ -152,6 +152,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -351,6 +352,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1603-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Stack
 |  |
@@ -402,6 +404,7 @@
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2022-convert-1d-array-into-2d-array) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 ## Tree
