@@ -166,6 +166,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3582-find-indices-of-stable-mountains) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3701-compute-alternating-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -453,6 +454,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3701-compute-alternating-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3701-compute-alternating-sum) |
 ## Counting Sort
 |  |
 | ------- |
