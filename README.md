@@ -191,6 +191,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
+| [3794-reverse-string-prefix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,6 +326,7 @@
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3379-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
