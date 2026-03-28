@@ -158,6 +158,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -190,6 +191,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3794-reverse-string-prefix) |
 ## Hash Table
@@ -277,6 +279,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
