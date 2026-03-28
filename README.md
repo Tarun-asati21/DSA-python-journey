@@ -108,6 +108,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
+| [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -186,6 +187,7 @@
 | [0202-happy-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
@@ -254,6 +256,7 @@
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0868-binary-gap](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -410,6 +413,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -449,6 +453,7 @@
 | [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
