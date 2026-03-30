@@ -224,6 +224,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
@@ -283,6 +284,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -333,6 +335,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3379-score-of-a-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
