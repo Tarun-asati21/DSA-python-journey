@@ -55,6 +55,7 @@
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3830-find-closest-person](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +178,7 @@
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
