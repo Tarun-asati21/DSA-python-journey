@@ -38,6 +38,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2383-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2396-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -194,6 +195,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2396-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
@@ -523,4 +525,8 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
