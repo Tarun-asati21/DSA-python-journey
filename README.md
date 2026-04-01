@@ -54,6 +54,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3875-construct-uniform-parity-array-i) |
