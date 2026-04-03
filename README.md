@@ -27,6 +27,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -288,6 +289,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
