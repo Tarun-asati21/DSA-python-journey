@@ -134,6 +134,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
@@ -437,6 +438,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -589,4 +591,5 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
