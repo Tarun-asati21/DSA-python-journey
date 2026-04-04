@@ -361,6 +361,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
@@ -395,6 +396,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
@@ -434,6 +436,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -582,4 +585,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
