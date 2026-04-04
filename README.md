@@ -191,6 +191,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
 | [3701-compute-alternating-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3701-compute-alternating-sum) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-score-of-a-split](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3788-maximum-score-of-a-split) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -433,6 +434,7 @@
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3788-maximum-score-of-a-split) |
 ## Stack
 |  |
 | ------- |
