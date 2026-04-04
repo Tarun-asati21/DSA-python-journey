@@ -170,6 +170,7 @@
 | [2906-construct-product-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2906-construct-product-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -299,6 +300,7 @@
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
