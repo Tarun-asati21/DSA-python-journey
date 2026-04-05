@@ -41,6 +41,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2383-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -430,6 +431,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1603-running-sum-of-1d-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2485-find-the-pivot-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2485-find-the-pivot-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
 | [2906-construct-product-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
