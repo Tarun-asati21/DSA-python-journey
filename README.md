@@ -51,6 +51,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3280-convert-date-to-binary) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -181,6 +182,7 @@
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
