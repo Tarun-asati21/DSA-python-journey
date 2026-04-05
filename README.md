@@ -59,6 +59,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -191,6 +192,7 @@
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3582-find-indices-of-stable-mountains) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3643-flip-square-submatrix-vertically) |
