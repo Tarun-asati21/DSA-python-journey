@@ -47,6 +47,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2812-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2843-count-symmetric-integers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -563,6 +564,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
+| [2843-count-symmetric-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
 ## Geometry
