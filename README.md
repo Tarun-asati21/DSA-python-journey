@@ -365,6 +365,7 @@
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0657-robot-return-to-origin](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
@@ -519,6 +520,7 @@
 | [0054-spiral-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0657-robot-return-to-origin) |
 | [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1505-create-target-array-in-the-given-order) |
