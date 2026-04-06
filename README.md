@@ -18,6 +18,7 @@
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0326-power-of-three) |
+| [0504-base-7](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
@@ -375,6 +376,7 @@
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0696-count-binary-substrings) |
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
