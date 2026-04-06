@@ -39,6 +39,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -471,6 +472,7 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2427-number-of-common-factors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2491-smallest-even-multiple) |
@@ -586,6 +588,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
