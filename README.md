@@ -161,6 +161,7 @@
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1656-count-good-triplets) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1720-decode-xored-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
@@ -266,6 +267,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
@@ -323,6 +325,7 @@
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1720-decode-xored-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2595-number-of-even-and-odd-bits) |
@@ -372,6 +375,7 @@
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -400,6 +404,7 @@
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
