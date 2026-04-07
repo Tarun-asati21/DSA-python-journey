@@ -18,6 +18,7 @@
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0504-base-7) |
 | [0728-self-dividing-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -90,6 +91,7 @@
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -309,6 +311,7 @@
 | [0191-number-of-1-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0693-binary-number-with-alternating-bits) |
