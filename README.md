@@ -423,6 +423,7 @@
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3174-clear-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3174-clear-digits) |
 | [3194-find-words-containing-character](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-find-words-containing-character) |
 | [3280-convert-date-to-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3379-score-of-a-string) |
@@ -484,6 +485,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3174-clear-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3174-clear-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -581,6 +583,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3174-clear-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3174-clear-digits) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3498-reverse-degree-of-a-string) |
