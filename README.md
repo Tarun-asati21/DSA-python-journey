@@ -150,6 +150,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1408-string-matching-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1408-string-matching-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -413,6 +414,7 @@
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1205-defanging-an-ip-address](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1408-string-matching-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1408-string-matching-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -470,6 +472,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1408-string-matching-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
