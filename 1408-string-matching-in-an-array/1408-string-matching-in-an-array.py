@@ -6,7 +6,6 @@ class Solution:
             for ch in words :
                 if word in ch :
                     count+=1
-                if count >= 2 :
-                    ans.append(word)
-                    break
+            if count >= 2 :
+                ans.append(word)
         return ans
