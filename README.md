@@ -215,6 +215,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3701-compute-alternating-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-score-of-a-split](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3788-maximum-score-of-a-split) |
@@ -285,6 +286,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3852-smallest-pair-with-different-frequencies) |
