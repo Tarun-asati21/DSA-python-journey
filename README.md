@@ -168,6 +168,7 @@
 | [1720-decode-xored-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1720-decode-xored-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1944-truncate-sentence](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1944-truncate-sentence) |
