@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0231-power-of-two) |
@@ -407,6 +408,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0345-reverse-vowels-of-a-string) |
