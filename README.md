@@ -42,6 +42,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -175,6 +176,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1944-truncate-sentence](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1944-truncate-sentence) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
@@ -518,6 +520,7 @@
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2427-number-of-common-factors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2427-number-of-common-factors) |
 | [2491-smallest-even-multiple](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2491-smallest-even-multiple) |
