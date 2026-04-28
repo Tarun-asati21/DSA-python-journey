@@ -44,6 +44,7 @@
 | [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -181,6 +182,7 @@
 | [1944-truncate-sentence](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1944-truncate-sentence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -387,6 +389,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -593,6 +596,7 @@
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
