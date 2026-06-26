@@ -189,6 +189,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -393,6 +394,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -501,6 +503,7 @@
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
