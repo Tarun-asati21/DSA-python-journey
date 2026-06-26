@@ -205,6 +205,7 @@
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -309,6 +310,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
+| [2784-check-if-array-is-good](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -399,6 +401,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2784-check-if-array-is-good](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
