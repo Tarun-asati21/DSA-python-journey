@@ -240,6 +240,7 @@
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-score-of-a-split](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3788-maximum-score-of-a-split) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
+| [3838-weighted-word-mapping](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3838-weighted-word-mapping) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3875-construct-uniform-parity-array-i) |
@@ -490,6 +491,7 @@
 | [3794-reverse-string-prefix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3794-reverse-string-prefix) |
 | [3797-design-spreadsheet](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3797-design-spreadsheet) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -657,6 +659,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3838-weighted-word-mapping) |
 ## Counting Sort
 |  |
 | ------- |
