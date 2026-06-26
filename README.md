@@ -176,6 +176,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
+| [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -392,6 +393,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -501,6 +503,7 @@
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2032-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -667,6 +670,7 @@
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 ## Linked List
 |  |
 | ------- |
