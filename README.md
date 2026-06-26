@@ -75,6 +75,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3830-find-closest-person) |
@@ -88,6 +89,7 @@
 | [0152-maximum-product-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -705,6 +707,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
 | ------- |
