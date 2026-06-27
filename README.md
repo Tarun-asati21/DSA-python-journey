@@ -251,6 +251,7 @@
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
