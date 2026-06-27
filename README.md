@@ -384,6 +384,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Sorting
 |  |
 | ------- |
