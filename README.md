@@ -255,6 +255,7 @@
 | [3917-count-indices-with-opposite-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3917-count-indices-with-opposite-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -420,6 +421,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -527,6 +529,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
