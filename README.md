@@ -71,6 +71,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -421,6 +422,7 @@
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3778-transform-array-by-parity](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3778-transform-array-by-parity) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
