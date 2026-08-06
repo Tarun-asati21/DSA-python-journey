@@ -68,6 +68,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3280-convert-date-to-binary) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -737,6 +738,7 @@
 | [2427-number-of-common-factors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
