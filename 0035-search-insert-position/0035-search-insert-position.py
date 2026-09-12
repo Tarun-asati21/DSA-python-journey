@@ -1,21 +1,14 @@
-class Solution(object):
-    def searchInsert(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        # upperbound approach - O(log n)
-        mini=len(nums)
-        l=0
-        r=len(nums)-1
-        while l<=r :
-            mid=(l+r)//2
-            if nums[mid]==target :
-                return mid
-            elif nums[mid]>target :
-                mini = min(mini, mid)
-                r=mid-1
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        # In standard Binary Search, when target is not found, the left pointer ends up pointing to the exact index where target should be inserted.
+        start=0
+        end = len(nums)-1
+        while start <= end :
+            mid = (start+end) //2
+            if nums[mid] == target :
+                return mid 
+            elif nums[mid] < target :
+                start = mid+1
             else :
-                l=mid+1
-        return mini
+                end = mid-1
+        return start
