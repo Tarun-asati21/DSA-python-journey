@@ -147,6 +147,7 @@
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0792-binary-search) |
@@ -364,6 +365,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
