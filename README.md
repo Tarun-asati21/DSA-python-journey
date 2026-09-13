@@ -274,6 +274,7 @@
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4020-elevator-requests-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/4020-elevator-requests-i) |
+| [4024-nearest-available-drone](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/4024-nearest-available-drone) |
 ## Two Pointers
 |  |
 | ------- |
@@ -771,6 +772,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [4024-nearest-available-drone](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/4024-nearest-available-drone) |
 ## Geometry
 |  |
 | ------- |
