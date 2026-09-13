@@ -481,6 +481,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
@@ -602,6 +603,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -790,4 +792,8 @@
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
