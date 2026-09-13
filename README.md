@@ -273,6 +273,7 @@
 | [3925-concatenate-array-with-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
+| [4020-elevator-requests-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -739,6 +740,7 @@
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3838-weighted-word-mapping) |
 | [3925-concatenate-array-with-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3925-concatenate-array-with-reverse) |
+| [4020-elevator-requests-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/4020-elevator-requests-i) |
 ## Counting Sort
 |  |
 | ------- |
