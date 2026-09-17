@@ -95,6 +95,7 @@
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0152-maximum-product-subarray) |
+| [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -144,6 +145,7 @@
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0347-top-k-frequent-elements) |
+| [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
@@ -803,6 +805,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
 ## Brainteaser
 |  |
