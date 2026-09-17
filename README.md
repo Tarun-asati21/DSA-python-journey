@@ -25,6 +25,7 @@
 | [0728-self-dividing-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0836-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -777,6 +778,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
 |  |
 | ------- |
