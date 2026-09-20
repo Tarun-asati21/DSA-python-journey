@@ -164,6 +164,7 @@
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -336,6 +337,7 @@
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0819-most-common-word) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1189-maximum-number-of-balloons](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -851,5 +853,6 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
