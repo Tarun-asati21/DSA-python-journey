@@ -17,6 +17,6 @@ class Solution:
                 break
         
         for edge in trust :
-            if edge[0] == judge :
+            if edge[0] == judge : # not connected to any other edge of the graph
                 return -1
         return judge
