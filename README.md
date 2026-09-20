@@ -848,4 +848,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0374-guess-number-higher-or-lower) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
