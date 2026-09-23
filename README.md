@@ -195,6 +195,7 @@
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1656-count-good-triplets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1656-count-good-triplets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1720-decode-xored-array) |
 | [1732-find-the-highest-altitude](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1732-find-the-highest-altitude) |
@@ -347,6 +348,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1635-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -395,6 +397,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
@@ -617,6 +620,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1603-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2485-find-the-pivot-integer) |
@@ -840,6 +844,7 @@
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Brainteaser
 |  |
 | ------- |
