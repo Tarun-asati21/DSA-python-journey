@@ -342,6 +342,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1331-rank-transform-of-an-array) |
@@ -449,6 +450,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -531,6 +533,7 @@
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0819-most-common-word) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1205-defanging-an-ip-address](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1205-defanging-an-ip-address) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -638,6 +641,7 @@
 | [0020-valid-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2128-reverse-prefix-of-word) |
@@ -853,6 +857,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0078-subsets) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -895,6 +900,7 @@
 | [0463-island-perimeter](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0733-flood-fill) |
+| [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
