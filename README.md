@@ -168,6 +168,7 @@
 | [0860-lemonade-change](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
@@ -345,6 +346,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0819-most-common-word) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0997-find-the-town-judge) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
@@ -542,6 +544,7 @@
 | [0782-jewels-and-stones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0812-rotate-string) |
 | [0819-most-common-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0819-most-common-word) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0953-verifying-an-alien-dictionary) |
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
