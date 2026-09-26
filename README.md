@@ -201,6 +201,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1732-find-the-highest-altitude) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1791-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -352,6 +353,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
@@ -544,6 +546,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1944-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
