@@ -162,6 +162,7 @@
 | [0819-most-common-word](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0819-most-common-word) |
 | [0830-largest-triangle-area](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0830-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0867-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0907-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -585,6 +586,7 @@
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
+| [0860-lemonade-change](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0860-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1448-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
