@@ -156,6 +156,7 @@
 | [0566-reshape-the-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0733-flood-fill) |
@@ -304,6 +305,7 @@
 | [0234-palindrome-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0832-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0908-middle-of-the-linked-list) |
@@ -394,6 +396,7 @@
 | [0278-first-bad-version](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0792-binary-search) |
@@ -453,6 +456,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1018-largest-perimeter-triangle) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
@@ -606,6 +610,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0451-sort-characters-by-frequency) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -866,6 +871,7 @@
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0658-find-k-closest-elements) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Brainteaser
 |  |
