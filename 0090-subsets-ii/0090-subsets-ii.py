@@ -1,17 +1,18 @@
 class Solution:
     def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
-        result = []
-        n=len(nums)
         nums.sort()
-        def helper(idx, subset):
-            if idx >= n :
-                if subset not in result :
-                    result.append(subset.copy())
-                return
-            subset.append(nums[idx])
-            helper(idx+1, subset)
-            subset.pop()
-            helper(idx+1, subset)
+        result = []
 
-        helper(0,[])
+        def helper(idx, subset):
+            result.append(subset.copy())
+
+            for i in range(idx, len(nums)):
+                if i > idx and nums[i] == nums[i - 1]:
+                    continue
+
+                subset.append(nums[i])
+                helper(i + 1, subset)
+                subset.pop()
+
+        helper(0, [])
         return result
