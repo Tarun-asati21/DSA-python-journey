@@ -2,6 +2,7 @@ class Solution:
     def subsetsWithDup(self, nums: list[int]) -> list[list[int]]:
         result = []
         n=len(nums)
+        nums.sort()
         def helper(idx, subset):
             if idx >= n :
                 if subset not in result :
