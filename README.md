@@ -231,6 +231,7 @@
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2270-number-of-ways-to-split-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -648,6 +649,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2270-number-of-ways-to-split-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2270-number-of-ways-to-split-array) |
 | [2485-find-the-pivot-integer](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2485-find-the-pivot-integer) |
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
