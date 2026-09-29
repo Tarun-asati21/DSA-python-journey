@@ -147,6 +147,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
@@ -645,6 +646,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0724-find-pivot-index) |
@@ -696,6 +698,7 @@
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
