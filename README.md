@@ -98,6 +98,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -152,6 +153,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0347-top-k-frequent-elements) |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
+| [0416-partition-equal-subset-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0485-max-consecutive-ones) |
@@ -983,4 +985,12 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
