@@ -6,7 +6,7 @@ class Solution:
                 if total == 0 :
                     result.append("".join(subset))
                 return
-            elif total < 0 :
+            elif total < 0 or total > n:
                 return
             subset.append("(")
             total += 1
