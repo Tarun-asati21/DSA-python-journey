@@ -557,6 +557,7 @@
 | [1006-vowel-spellchecker](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1006-vowel-spellchecker) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1205-defanging-an-ip-address) |
@@ -675,6 +676,7 @@
 | [0402-remove-k-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0402-remove-k-digits) |
 | [0946-validate-stack-sequences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0946-validate-stack-sequences) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -933,6 +935,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0020-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
