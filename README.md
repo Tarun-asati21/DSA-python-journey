@@ -125,6 +125,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
@@ -921,6 +922,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
