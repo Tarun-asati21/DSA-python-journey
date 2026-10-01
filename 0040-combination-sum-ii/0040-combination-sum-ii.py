@@ -2,24 +2,27 @@ class Solution:
     def combinationSum2(self, candidates: list[int], target: int) -> list[list[int]]:
         result = []
         candidates.sort()
+        n = len(candidates)
 
-        def backtrack(start, remaining, subset):
-            if remaining == 0:
-                result.append(list(subset))
-                return
+        def backtrack(idx, total, subset):
+            if total == 0 :
+                result.append(subset.copy())
+                return 
+            if total < 0 :
+                return 
 
-            for i in range(start, len(candidates)):
-                # Pruning: Skip duplicates at the same tree level
-                if i > start and candidates[i] == candidates[i - 1]:
+            for i in range(idx, n):
+                if i > idx and candidates[i] == candidates[i-1] :
+                    # if next element same as previosu choosen element for same position, then skip
                     continue
 
-                # Pruning: Stop early if candidate exceeds remaining target
-                if candidates[i] > remaining:
-                    break
-
+                remaining = total - candidates[i]
                 subset.append(candidates[i])
-                backtrack(i + 1, remaining - candidates[i], subset)
+                backtrack(i+1, remaining, subset)
+
+                # backtracking
                 subset.pop()
 
         backtrack(0, target, [])
         return result
+            
