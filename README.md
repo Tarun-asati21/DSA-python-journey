@@ -147,6 +147,7 @@
 | [0169-majority-element](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -930,6 +931,7 @@
 | [0040-combination-sum-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0216-combination-sum-iii) |
 | [1096-brace-expansion-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
