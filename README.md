@@ -12,6 +12,7 @@
 | [0050-powx-n](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0171-excel-sheet-column-number) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0413-arithmetic-slices) |
@@ -120,6 +122,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1013-fibonacci-number) |
 ## Array
