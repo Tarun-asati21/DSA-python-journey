@@ -260,6 +260,7 @@
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2714-left-and-right-sum-differences) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2784-check-if-array-is-good) |
 | [2788-split-strings-by-separator](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2788-split-strings-by-separator) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -844,6 +845,7 @@
 | [1925-count-square-sum-triples](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2843-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3345-smallest-divisible-digit-product-i) |
