@@ -609,6 +609,7 @@
 | [2833-furthest-point-from-origin](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3019-number-of-changing-keys](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3019-number-of-changing-keys) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3121-count-the-number-of-special-characters-ii) |
