@@ -268,6 +268,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2906-construct-product-matrix](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2906-construct-product-matrix) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
@@ -391,6 +392,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -1017,4 +1019,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/0416-partition-equal-subset-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
