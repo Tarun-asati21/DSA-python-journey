@@ -289,6 +289,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3582-find-indices-of-stable-mountains) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -397,6 +398,7 @@
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-design-task-manager](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3678-design-task-manager) |
@@ -509,6 +511,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
