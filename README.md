@@ -240,6 +240,7 @@
 | [2048-build-array-from-permutation](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2126-destroying-asteroids](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2126-destroying-asteroids) |
@@ -439,6 +440,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3722-lexicographically-smallest-string-after-reverse](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3722-lexicographically-smallest-string-after-reverse) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -501,6 +503,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1833-maximum-ice-cream-bars) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
