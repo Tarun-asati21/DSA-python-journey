@@ -249,6 +249,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2270-number-of-ways-to-split-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2270-number-of-ways-to-split-array) |
@@ -391,6 +392,7 @@
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2429-design-a-food-rating-system) |
 | [2615-sum-of-distances](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2615-sum-of-distances) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
@@ -471,6 +473,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1720-decode-xored-array) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2595-number-of-even-and-odd-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -549,6 +552,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1708-design-parking-system](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1708-design-parking-system) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2206-divide-array-into-equal-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2206-divide-array-into-equal-pairs) |
 | [2748-number-of-beautiful-pairs](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/2833-furthest-point-from-origin) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Tarun-asati21/DSA-python-journey/tree/master/3591-check-if-any-element-has-prime-frequency) |
